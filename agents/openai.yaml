@@ -1,0 +1,5 @@
+interface:
+  display_name: "轻量运行优化"
+  short_description: "针对实际代码运行与资源设计，优化 I/O、显存及 tmux 任务收尾"
+policy:
+  allow_implicit_invocation: true
